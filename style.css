@@ -331,4 +331,5 @@ h2 {
 .social-icons a:focus {
   text-decoration: none;
   outline: none;
+  border: 0;
 }
